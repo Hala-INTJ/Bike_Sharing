@@ -4,7 +4,7 @@
 In this project, Tableau is used to create worksheets, dashboards and a story on New York bike-sharing data from August 2019. The purpose of the analysis is to present to investors who are considering a bike-sharing program in Des Moines with the intent to impress that it is a sound investment.
 ## Bike Sharing Results
 
-The data provided by the City of New York required some refinements and represents only August 2019. The presentaion has been prepared as a [Tableau story](https://public.tableau.com/profile/hala6514#!/vizhome/Challenge14_16173215654330/Bike-SharingStory?publish=yes), and the following narrative would accompany the story:
+The data provided by the City of New York required some refinements and represents only August 2019. The presentation has been prepared as a [Tableau story](https://public.tableau.com/profile/hala6514#!/vizhome/Challenge14_16173215654330/Bike-SharingStory?publish=yes), and the following narrative would accompany the story:
 ### Typical Ride Durations
 These charts show that the vast majority of rides are under 30 minutes, indicating that the bike sharing in New York is used primarily for short distances and durations. This also indicates that bikes are generally returned to the stations promptly. In addition, males used the bikes approximately 4:1 compared to females.
 
